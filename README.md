@@ -67,5 +67,4 @@ Specify.
 <p float="left">
   <img src="Pics/ACC41.png" width="250" />
   <img src="Pics/ACC42.png" width="250" />
-   <img src="Pics/ACC43.png" width="250" />
 </p>
