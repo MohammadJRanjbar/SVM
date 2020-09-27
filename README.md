@@ -15,10 +15,10 @@ Make data in 2 categories 1 and -1 using polar coordinates so that the separatio
   
 * 3. Create an SVM learner in kernel mode with nonlinear SVM algorithm. Select RBF kernel and Grade 2 and 3 polynomial kernels. You can select the best kernel based on the accuracy of the validation set by cross-validation. Calculate the accuracy of the classification on the test and train sets in this best selected kernel. Then draw the curve of the margins and the decision boundary, and specify the support vectors on it.
 
-<p float="Center">
-  <img src="Pics/SV31.png" width="400" />
-  <img src="Pics/SV32.png" width="400" />
-  <img src="Pics/SV33.png" width="400" />
+<p float="left">
+  <img src="Pics/SV31.png" width="500" />
+  <img src="Pics/SV32.png" width="500" />
+  <img src="Pics/SV33.png" width="500" />
 </p>
 
 # 2- Iris Dataset
