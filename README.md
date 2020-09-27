@@ -24,6 +24,9 @@ Make data in 2 categories 1 and -1 using polar coordinates so that the separatio
 # 2- Iris Dataset
 * one versus all
 * 1. Create an SVM learner using the linear SVM algorithm and the train data set using the 4-fold cross validation method. Note: Test and training data should be selected by the same 4-fold method (accuracy rate)
+
+<img src="Pics/ACC2.png" width="400" />
+
 Calculate the classification on the train and test sets and report the final accuracy of the 4-fold system.
 Then specify the number of support vectors in each case.
 * 2. In the same mode as the previous 4-fold cross validation, with the nonlinear SVM algorithm in the soft SVM mode a learner
