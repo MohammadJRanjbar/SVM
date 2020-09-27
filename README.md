@@ -34,10 +34,12 @@ And test In this, calculate the best selected value. Then specify the number of 
 Compare before.
 
 <p float="left">
-  <img src="Pics/AC1.png" width="250" />
-  <img src="Pics/AC12.png" width="250" />
-  <img src="Pics/AC13.png" width="250" />
-  <img src="Pics/AC14.png" width="250" />
+  <img src="Pics/AC1.png" width="400" />
+  <img src="Pics/AC12.png" width="400" />
+</p>
+<p float="left">
+  <img src="Pics/AC13.png" width="400" />
+  <img src="Pics/AC14.png" width="400" />
 </p>
 
 
