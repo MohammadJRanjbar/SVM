@@ -50,7 +50,22 @@ Compare before.
 Build. Select RBF kernel and polynomial kernel. You can choose the best kernel based on accuracy
 Perform validation on the set. The degree of classification accuracy on the train and test sets in this best
 Calculate the selected kernel. Then specify the number of support vectors.
+
+<p float="left">
+  <img src="Pics/ACC31.png" width="400" />
+  <img src="Pics/ACC32.png" width="400" />
+</p>
+<p float="left">
+  <img src="Pics/ACC33.png" width="400" />
+  <img src="Pics/ACC34.png" width="400" />
+</p>
+
 * 4. In the same mode as the previous 4-fold cross validation, create an SVM learner with the nonlinear SVM algorithm in the combined kernel and soft SVM mode. Select the best kernel for the previous step. Using the soft SVM parameter
 Adjust the validation data to give the best accuracy on the validation set. The degree of accuracy
 Calculate the classification on the train and test sets at this best value. Then the number of support vectors
 Specify.
+<p float="left">
+  <img src="Pics/ACC41.png" width="250" />
+  <img src="Pics/ACC42.png" width="250" />
+   <img src="Pics/ACC43.png" width="250" />
+</p>
