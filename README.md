@@ -32,6 +32,15 @@ You get, set to give the best accuracy on the validation set. Accuracy change cu
 Draw a classification on the validation data based on the value of C. The degree of classification accuracy on train sets
 And test In this, calculate the best selected value. Then specify the number of support vectors and the mode
 Compare before.
+
+<p float="left">
+  <img src="Pics/AC1.png" width="250" />
+  <img src="Pics/AC12.png" width="250" />
+  <img src="Pics/AC13.png" width="250" />
+  <img src="Pics/AC14.png" width="250" />
+</p>
+
+
 * 3. In the same mode as the previous 4-fold cross validation, with the nonlinear SVM algorithm in the kernel mode of an SVM learner
 Build. Select RBF kernel and polynomial kernel. You can choose the best kernel based on accuracy
 Perform validation on the set. The degree of classification accuracy on the train and test sets in this best
